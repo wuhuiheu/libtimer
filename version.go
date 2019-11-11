@@ -1,5 +1,5 @@
 package libtimer
 
 func Version() string {
-	return "2.0.1"
+	return "1.0.1"
 }
